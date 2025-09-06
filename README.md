@@ -15,7 +15,8 @@
 ---
 
 ## 📂 Featured Projects  
-- 🚦 **Smart Traffic Management** – Software + hardware system for congestion control  
+- 🚦 **Smart Traffic Management** – Software + hardware system for congestion control
+- **SustainAGRO** – Arduino-based smart agriculture monitoring system
 - 🔌 **Arduino + Software Prototypes** – Small-scale projects bridging electronics with code  
 
 ---
